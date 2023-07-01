@@ -30,18 +30,25 @@ const Hero = () => {
         <br />
         <br />
         <span className="font-medium text-teal-800">
-          We know sometimes uni pages or documents may seem overwhelming.
-        </span>{" "}
-        <br />
-        <span className="font-medium text-teal-800">
-          So we made it easier for you to understand the important stuff.
+          Navigating through university pages and documents can often feel overwhelming
+          and confusing. <br /> <br />
+          That's why we've created Stepla: UniExplained, a handy tool designed to make
+          understanding the important stuff a breeze.
         </span>{" "}
         <br />
         <br />
         <span className="font-light text-teal-600">
-          To test it out, we recommend try with a single page application first. This can
-          be orientation document, handbook, course suggestion or any other document that
-          is in a single page, with a lot of text.
+          We recommend starting with a single-page application to get a taste of its
+          magic. This can be orientation document, handbook, course suggestion or any
+          other document that is in a single page, with a lot of text.
+        </span>
+        <br />
+        <br />
+        <span className="text-sm font-light text-gray-400 text-center">
+          Please note that we are currently in the beta version, so there might minor
+          hiccups along the way. <br />
+          But rest assured, we're working tirelessly to improve and enhance the platform.
+          💪
         </span>
       </h2>
     </header>
