@@ -29,15 +29,14 @@ const Hero = () => {
         </span>{" "}
         <br />
         <br />
-        <span className="font-bold text-teal-800">
-          What do I actually need to know?
+        <span className="font-medium text-teal-800">
+          We know sometimes uni pages or documents may seem overwhelming.
         </span>{" "}
         <br />
+        <span className="font-medium text-teal-800">
+          So we made it easier for you to understand the important stuff.
+        </span>{" "}
         <br />
-        We know how hard it to read through pages of university handbook, orientation
-        page, and many other documents. <br />
-        <br />
-        So we made it easier for you to understand the important stuff. <br />
         <br />
         <span className="font-light text-teal-600">
           To test it out, we recommend try with a single page application first. This can
