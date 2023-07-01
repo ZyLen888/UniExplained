@@ -18,17 +18,32 @@ const Hero = () => {
         </button>
       </nav>
       <h1 className="head_text">
-        Explain uni stuff for you with <br class="mx-md:hidden" />
+        Explain uni stuff for you with <br className="mx-md:hidden" />
         <span className="teal_gradient">Stepla:UniExplain</span>
       </h1>
       <h2 className="desc">
-        <span className="font-bold text-teal-800">What do I actually need to know?</span>{" "}
+        <span className="font-bold text-gray-500">
+          {" "}
+          👩‍💻 Beta Version: Some more complicated links might not work as expected.
+          Currently work in progress... 🐾
+        </span>{" "}
+        <br />
+        <br />
+        <span className="font-bold text-teal-800">
+          What do I actually need to know?
+        </span>{" "}
         <br />
         <br />
         We know how hard it to read through pages of university handbook, orientation
         page, and many other documents. <br />
         <br />
         So we made it easier for you to understand the important stuff. <br />
+        <br />
+        <span className="font-light text-teal-600">
+          To test it out, we recommend try with a single page application first. This can
+          be orientation document, handbook, course suggestion or any other document that
+          is in a single page, with a lot of text.
+        </span>
       </h2>
     </header>
   );
