@@ -31,7 +31,7 @@ const Hero = () => {
         <br />
         <span className="font-medium text-teal-800">
           Navigating through university pages and documents can often feel overwhelming
-          and confusing. <br /> <br />
+          and confusing for high school students. <br /> <br />
           That's why we've created Stepla: UniExplained, a handy tool designed to make
           understanding the important stuff a breeze.
         </span>{" "}
