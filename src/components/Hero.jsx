@@ -19,7 +19,7 @@ const Hero = () => {
       </nav>
       <h1 className="head_text">
         Explain uni stuff for you with <br className="mx-md:hidden" />
-        <span className="teal_gradient">Stepla:UniExplain</span>
+        <span className="teal_gradient">Stepla:UniExplained</span>
       </h1>
       <h2 className="desc">
         <span className="font-bold text-gray-500">
