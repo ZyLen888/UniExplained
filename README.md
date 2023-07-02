@@ -14,13 +14,7 @@ So thinking of the power of OpenAI, I thought, why not try to use their API and 
 
 ## ⭐️ Result
 
-<img width="492" alt="image" src="https://github.com/ZyLen888/UniExplained/assets/38216910/de0428f0-3129-4672-bc8a-dda4cdf3c153">
-
-Due to the price of one of the APIs I am using now, **I have decided to currently withhold the link from being publicly published**.   
-
-Otherwise, if the API requests bumps on and exceed the amount I signed up for, I will be receiving a crazy bill... 💰   
-
-#### But if you are interested in the project, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/zhenliumeimiliu/), and I can show a demo to you!
+<img width="492" alt="image" src="https://github.com/ZyLen888/UniExplained/assets/38216910/de0428f0-3129-4672-bc8a-dda4cdf3c153"> 
 
 ## 🛣 Future Plan
 
@@ -28,5 +22,28 @@ Otherwise, if the API requests bumps on and exceed the amount I signed up for, I
 
 **Plan:** 
 - Find a less expensive API to replace one of the current APIs I am using to extract text from the link provided
-- Refine the prompt given to OpenAI API, hoping to receive responses with simpler, more high-schoolers friendly language! 
-- Solve the issue with pages with more complex structure, hence resulting in poor outcome of explanation (ex. handbook with multiple column and buttons)
+- Refine the prompt given to OpenAI API, hoping to receive responses with simpler, more high-schoolers-friendly language! 
+- Solve the issue with pages with more complex structures, hence resulting in poor outcome of explanation (ex., handbook with multiple columns and buttons)
+
+## 👀 See this in action 
+
+💰 Deployment will cost some money, as well as I had a concern about my API being abused (which will be quite expensive), so before I find a platform to deploy for FREE, if you want to see this application in ACTION, please follow the steps below to install it on your local machine.
+
+1. Clone the repository to your local machine and navigate to the root directory.
+
+**Please retrieve your own API to install in .env file**
+
+### Installing Dependencies
+
+To install the dependencies, run the following command:
+
+```bash
+npm install
+```
+
+### Running the application
+
+To run the application, navigate to the client folder and run the following command:
+
+```
+npm run dev
