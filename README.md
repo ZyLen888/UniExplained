@@ -6,11 +6,13 @@ Style inspired by this amazing website [Short Links with Superpowers](https://du
 
 ## 🧠 Thoughts
 
-Being a co-founder of Stepla, an online community and platform to bridge high school students with university experiences, during discussion with fellow co-founders, we were brainstorming how to make high school students' transition into uni as smooth as possible. One problem we identified is where high school students found it daunting to look into university documents, handbook, relevant pages because the overwhelming information shown. So we were thinking if there is a way to summarise, simplify and explain the page a bit better? 
+Being a co-founder of Stepla, an online community and platform to bridge high school students with university experiences, during a discussion with fellow co-founders, we were brainstorming how to make high school students transition into uni as smooth as possible. One problem we identified is that high school students found it daunting to look into university documents, handbooks, and relevant pages because of the overwhelming information shown. So we wondered if there is a way to summarise, simplify and explain the page better. 
 
 ## 💪 Action
 
-So thinking of the power of OpenAI, I thought why not try to use their API and see what I can make out of it? Then voila, here is an explainer / summariser that I built with OpenAI API. A link can be entered in the input box, and it will return a summarised, explained version of the web page entered. 
+So thinking of the power of OpenAI, I thought, why not try to use their API and see what I can make out of it? Then voila, here is an explainer / summariser that I built with OpenAI API. A link can be entered in the input box, which will return a summarised, explained version of the web page entered. 
+
+## ⭐️ Result
 
 <img width="492" alt="image" src="https://github.com/ZyLen888/UniExplained/assets/38216910/de0428f0-3129-4672-bc8a-dda4cdf3c153">
 
