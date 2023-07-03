@@ -6,7 +6,9 @@ Style inspired by this amazing website [Short Links with Superpowers](https://du
 
 ## 🧠 Thoughts
 
-Being a co-founder of Stepla, an online community and platform to bridge high school students with university experiences, during a discussion with fellow co-founders, we were brainstorming how to make high school students transition into uni as smooth as possible. One problem we identified is that high school students found it daunting to look into university documents, handbooks, and relevant pages because of the overwhelming information shown. So we wondered if there is a way to summarise, simplify and explain the page better. 
+Being a co-founder of Stepla, an online community and platform to bridge high school students with university experiences, during a discussion with fellow co-founders, we were brainstorming how to make high school students transition into uni as smooth as possible.  
+
+One problem we identified is that high school students found it daunting to look into university documents, handbooks, and relevant pages because of the overwhelming information shown. So we wondered if there is a way to summarise, simplify and explain the page better. 
 
 ## 💪 Action
 
@@ -27,7 +29,9 @@ So thinking of the power of OpenAI, I thought, why not try to use their API and 
 
 ## 👀 See this in action 
 
-💰 Deployment will cost some money, as well as I had a concern about my API being abused (which will be quite expensive), so before I find a platform to deploy for FREE, if you want to see this application in ACTION, please follow the steps below to install it on your local machine.
+💰 Deployment will cost some money, as well as I had a concern about my API being abused (which will be quite expensive), so I have not deployed this publicly. 
+
+**If you want to see this application in ACTION, please follow the steps below to install it on your local machine.**
 
 1. Clone the repository to your local machine and navigate to the root directory.
 
